@@ -2459,7 +2459,7 @@ textarea.form-control {
         width: calc(100% - 220px);
     }
     .as_banner_wrapper {
-        /* padding: 80px 100px; */
+        padding: 80px 100px;
     }
     .as_customer_box {
         padding: 0 40px 42px;
