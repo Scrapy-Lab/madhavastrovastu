@@ -389,8 +389,8 @@
 
         </section> -->
 
-
-        <section class="as_banner_wrapper">
+        <!-- as_banner_wrapper padding removed -->
+        <section class=""> 
             <div class="hs_slider_main_wrapper" data-scroll-index="1">
                 <div class="container-fluid">
                     <div class="row">

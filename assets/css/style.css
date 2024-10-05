@@ -2,7 +2,7 @@
 :root{
     --primary-color:#e5f0f5;
     --secondary-color:#ff7010;
-    --dark-color1:#031d2e;
+    --dark-color1:#160033;
     --dark-color2:#17384e;
     --white-color:#ffffff;
     --transition:0.4s ease-in-out;
@@ -404,7 +404,7 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
 /* header css start */ 
 .as_header_wrapper {
     display: flex;
-    background-color: #07273c;
+    background-color: #160033;
 }
 .as_logo {
     padding: 35px 150px;
@@ -862,7 +862,7 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
 /* about css end */
 /* service css start */
 .as_service_box {
-    background-color: #07273c;
+    background-color: #160033;
     padding: 50px 22px;
     margin-top: 30px;
 }
@@ -957,7 +957,7 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
     align-items: center;
 }
 .as_sign_box .as_sign {
-    background-color: #07273c;
+    background-color: #160033;
     height: 80px;
     width: 54px;
     display: inline-flex;
@@ -1003,7 +1003,7 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
     bottom: 0;
     border-top: 40px solid transparent;
     border-bottom: 40px solid transparent;
-    border-left: 18px solid #07273c;
+    border-left: 18px solid #160033;
  
 } 
 .as_sign_box:hover {
@@ -1028,7 +1028,7 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
     left:auto; 
     right: 100%; 
     border-left: none; 
-    border-right: 18px solid #07273c;
+    border-right: 18px solid #160033;
 }
 .as_sign_ul li:first-child,.as_sign_ul li:last-child  {
     transform: translateX(200px);
@@ -1082,7 +1082,7 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
     max-width: 205px;
 }
 .as_sign_form {
-    background-color: #07273c;
+    background-color: #160033;
     padding: 25px 33px 50px;
 
 }
@@ -1455,7 +1455,7 @@ section.as_whychoose_wrapper.as_padderTop80 {
     margin-right: 5px;
 }
 .as_copyright_wrapper {
-    background-color: #07273c;
+    background-color: #160033;
     padding:13px 0 5px
 }
 
@@ -1497,7 +1497,7 @@ section.as_whychoose_wrapper.as_padderTop80 {
     background-color: #031d2e;
 }
 .as_servicedetail_wrapper{
-    background-color: #07273c;
+    background-color: #160033;
 }
 .as_service_ul {
     margin: 0;
@@ -1696,7 +1696,7 @@ section.as_whychoose_wrapper.as_padderTop80 {
     padding-right: 0px;
 }
 .as_zodiac_single_wrapper {
-    background-color: #07273c;
+    background-color: #160033;
 }
 .as_progressbar{
     position: relative;
@@ -2459,7 +2459,7 @@ textarea.form-control {
         width: calc(100% - 220px);
     }
     .as_banner_wrapper {
-        padding: 80px 100px;
+        /* padding: 80px 100px; */
     }
     .as_customer_box {
         padding: 0 40px 42px;
