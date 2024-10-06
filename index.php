@@ -403,7 +403,7 @@
                                     <div class="hs_logo_wrapper">
                                         <!-- <img src="images/top_logo.png" alt="logo"> -->
                                     </div>
-                                    <h1>Discover Your Destiny with Madhav Shastri</h1>
+                                    <h1>Discover Your Destiny with <span style="color: #ff7010;">Madhav Shastri</span></h1>
                                     <p>Empowering Your Journey with Ancient Vedic Knowledge</p>
                                     <a href="contact.html" class="bootstrap_four_btn" href="#"
                                         data-scroll-nav="2">Contact Us</a>
@@ -512,16 +512,20 @@
 
                     <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
-                        <h1 class="as_heading">know about Astrology By Madhav Shastri</h1>
+                        <h1 class="as_heading">About <span style="color: #ff7010;">Madhav Shastri</span></h1>
 
-                        <p>t is a long established fact that a reader will be distracted by the readable content of a
-                            page when looking at its layout. The point of using Lorem Ipsum is that it esdehas a more-or
-                            less normal distribution of letters,</p>
+                        <p>At Astrology By <span style="color: #ff7010;">Madhav Shastri</span>, I guide individuals on their journey to self-discovery and
+                            personal growth through the wisdom of astrology and Vastu Shastra. With years of experience
+                            in these ancient sciences, I provide insights into life’s most important areas—love, career,
+                            health, and more—by interpreting your unique birth chart and aligning your space with
+                            positive energies.</p>
 
-                        <p>As opposed to using 'Content here, content here', making it look likesdesdee readable
-                            English.Many desktop publishing packages and web page editors sdesnow use Lorem Ipsum as
-                            their default model text, and a search for 'lorem ipsum' will usdencover many web sites
-                            still in their web page editors sdesnow infancy.</p>
+                        <p>My approach is personalized and practical, helping you make informed decisions and harmonize
+                            your surroundings with the natural flow of the cosmos. Whether you're seeking clarity or
+                            looking for solutions, I’m here to help you find your path and thrive.
+
+
+                        </p>
 
                         <!-- <a href="javascript:;" class="as_btn">read more</a> -->
 
@@ -597,7 +601,7 @@
 
                             <h4 class="as_subheading">Vastu Shastra</h4>
 
-                            <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
+                            <p>Vastu Shastra harmonizes living spaces with nature for positive energy.</p>
 
                             <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
@@ -619,7 +623,7 @@
 
                             <h4 class="as_subheading">Birth Journal</h4>
 
-                            <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
+                            <p>Birth Journal records astrological details of one's birth for life guidance.</p>
 
                             <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
@@ -641,7 +645,7 @@
 
                             <h4 class="as_subheading">Manglik Dosha</h4>
 
-                            <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
+                            <p>Manglik Dosha arises from Mars' position, affecting marriage and relationships.</p>
 
                             <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
@@ -663,7 +667,8 @@
 
                             <h4 class="as_subheading">Lal Kitab</h4>
 
-                            <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
+                            <p>Lal Kitab is an ancient astrology text offering practical remedies for life challenges.
+                            </p>
 
                             <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
@@ -685,7 +690,8 @@
 
                             <h4 class="as_subheading">Crystal Ball</h4>
 
-                            <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
+                            <p>A crystal ball is used in divination to gain insights into the future and explore one's
+                                inner self.</p>
 
                             <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
@@ -707,7 +713,8 @@
 
                             <h4 class="as_subheading">Kundli Dosh</h4>
 
-                            <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
+                            <p>Kundli Dosh refers to imperfections in a natal chart that may affect life events,
+                                relationships, and compatibility.</p>
 
                             <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
@@ -729,7 +736,8 @@
 
                             <h4 class="as_subheading">Tarot Reading</h4>
 
-                            <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
+                            <p>Tarot reading involves using a deck of cards to gain insights, guidance, and clarity
+                                about life situations and personal challenges.</p>
 
                             <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
@@ -751,7 +759,8 @@
 
                             <h4 class="as_subheading">Palm Reading</h4>
 
-                            <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
+                            <p>Palm reading is the practice of analyzing the lines, shapes, and features of the hands to
+                                gain insights into an individual's personality, life path, and future.</p>
 
                             <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
@@ -1310,8 +1319,7 @@
 
                         <h1 class="as_heading">Why Choose Us</h1>
 
-                        <p class="as_font14 as_margin0">Consectetur adipiscing elit, sed do eiusmod tempor
-                            incididuesdeentiut.</p>
+                        <p class="as_font14 as_margin0">At Astrology By <span style="color: #ff7010;">Madhav Shastri</span> , we provide expert guidance through personalized readings that cater to your unique needs. Our holistic approach integrates various astrological practices, ensuring you receive comprehensive insights and solutions. With a focus on client satisfaction, we aim to empower you on your spiritual journey for meaningful transformations.</p>
 
                     </div>
 
@@ -2353,8 +2361,8 @@
                     <div class="col-lg-12">
 
                         <p>Copyright &copy; 2024 <a href="https://www.madhavastrovastu.in"> <span
-                                    style="color: blue;">Madhav Astro Vastu </span> </a> All Right Reserved. 
-                                    <!-- Develoved
+                                    style="color: blue;">Madhav Astro Vastu </span> </a> All Right Reserved.
+                            <!-- Develoved
                             By <a href="snehal.info"> <span style="color: rgb(255, 0, 0);">Snehal Rajvansh</span></a> -->
                         </p>
 
