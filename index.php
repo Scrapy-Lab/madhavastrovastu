@@ -22,14 +22,16 @@
     <meta property="og:title" content="Madhav Shastri Astrologer | Vedic Astrology & Vastu Expert">
     <meta property="og:description"
         content="Get expert astrological insights and Vastu guidance from Madhav Shastri. Personalized readings for your life's path.">
-    <meta property="og:image" content="https://madhavastrovastu.in/assets/images/astro-image.png"> <!-- Replace with your image URL -->
+    <meta property="og:image" content="https://madhavastrovastu.in/assets/images/astro-image.png">
+    <!-- Replace with your image URL -->
     <meta property="og:url" content="https://madhavastrovastu.in/">
 
     <!-- Twitter Card Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Madhav Shastri Astrologer | Vedic Astrology & Vastu Expert">
     <meta name="twitter:description" content="Personalized astrology readings and Vastu solutions by Madhav Shastri.">
-    <meta name="twitter:image" content="https://madhavastrovastu.in/assets/images/astro-image.png"> <!-- Replace with your image URL -->
+    <meta name="twitter:image" content="https://madhavastrovastu.in/assets/images/astro-image.png">
+    <!-- Replace with your image URL -->
 
     <!-- Canonical Tag (Avoid Duplicate Content Issues) -->
     <link rel="canonical" href="https://madhavastrovastu.in/">
@@ -251,7 +253,7 @@
 
                             </li>
 
-                            <li><a href="appointment.html">appointment</a></li>
+                            <!-- <li><a href="appointment.html">appointment</a></li> -->
 
 
 
@@ -390,7 +392,7 @@
         </section> -->
 
         <!-- as_banner_wrapper padding removed -->
-        <section class=""> 
+        <section class="">
             <div class="hs_slider_main_wrapper" data-scroll-index="1">
                 <div class="container-fluid">
                     <div class="row">
@@ -403,7 +405,7 @@
                                     </div>
                                     <h1>Discover Your Destiny with Madhav Shastri</h1>
                                     <p>Empowering Your Journey with Ancient Vedic Knowledge</p>
-                                    <a href="tel:+4733378901" class="bootstrap_four_btn" href="#"
+                                    <a href="contact.html" class="bootstrap_four_btn" href="#"
                                         data-scroll-nav="2">Contact Us</a>
                                     <!-- <a class="bootstrap_three_btn"
                                     href="https://themeforest.net/item/horoscope-all-in-one-astrology-and-numerology-html-template/21530164?ref=webstrot"
@@ -454,7 +456,7 @@
             </div>
 
         </section>
-        <section class="as_about_wrapper as_padderTop80 as_padderBottom80">
+        <section class="as_about_wrapper as_padderTop80 as_padderBottom80" id="about">
 
             <div class="container">
 
@@ -521,7 +523,7 @@
                             their default model text, and a search for 'lorem ipsum' will usdencover many web sites
                             still in their web page editors sdesnow infancy.</p>
 
-                        <a href="javascript:;" class="as_btn">read more</a>
+                        <!-- <a href="javascript:;" class="as_btn">read more</a> -->
 
 
 
@@ -597,7 +599,7 @@
 
                             <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
 
-                            <a href="service_detail.html" class="as_link">read more</a>
+                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                         </div>
 
@@ -619,7 +621,7 @@
 
                             <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
 
-                            <a href="service_detail.html" class="as_link">read more</a>
+                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                         </div>
 
@@ -641,7 +643,7 @@
 
                             <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
 
-                            <a href="service_detail.html" class="as_link">read more</a>
+                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                         </div>
 
@@ -663,7 +665,7 @@
 
                             <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
 
-                            <a href="service_detail.html" class="as_link">read more</a>
+                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                         </div>
 
@@ -685,7 +687,7 @@
 
                             <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
 
-                            <a href="service_detail.html" class="as_link">read more</a>
+                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                         </div>
 
@@ -707,7 +709,7 @@
 
                             <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
 
-                            <a href="service_detail.html" class="as_link">read more</a>
+                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                         </div>
 
@@ -729,7 +731,7 @@
 
                             <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
 
-                            <a href="service_detail.html" class="as_link">read more</a>
+                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                         </div>
 
@@ -751,7 +753,7 @@
 
                             <p>Consectetur adipiscing elit sed do <br>eiusmod tempor incididunt.</p>
 
-                            <a href="service_detail.html" class="as_link">read more</a>
+                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                         </div>
 
@@ -1086,7 +1088,7 @@
 
         </section>
 
-        <section class="as_know_sign_wrapper as_padderBottom80 as_padderTop80">
+        <!-- <section class="as_know_sign_wrapper as_padderBottom80 as_padderTop80">
 
             <div class="container">
 
@@ -1169,9 +1171,9 @@
 
             </div>
 
-        </section>
+        </section> -->
 
-        <section class="as_customer_wrapper as_padderBottom80 as_padderTop80">
+        <!-- <section class="as_customer_wrapper as_padderBottom80 as_padderTop80">
 
             <div class="container">
 
@@ -1295,108 +1297,109 @@
 
             </div>
 
-    </div>
 
-    </section>
+        </section> -->
 
-    <section class="as_whychoose_wrapper as_padderTop80 as_padderBottom50">
+        <section class="as_whychoose_wrapper as_padderTop80 as_padderBottom50">
 
-        <div class="container">
+            <div class="container">
 
-            <div class="row as_verticle_center">
+                <div class="row as_verticle_center">
 
-                <div class="col-lg-3 col-md-12">
+                    <div class="col-lg-3 col-md-12">
 
-                    <h1 class="as_heading">Why Choose Us</h1>
+                        <h1 class="as_heading">Why Choose Us</h1>
 
-                    <p class="as_font14 as_margin0">Consectetur adipiscing elit, sed do eiusmod tempor
-                        incididuesdeentiut.</p>
+                        <p class="as_font14 as_margin0">Consectetur adipiscing elit, sed do eiusmod tempor
+                            incididuesdeentiut.</p>
 
-                </div>
+                    </div>
 
-                <div class="col-lg-9 col-md-12">
+                    <div class="col-lg-9 col-md-12">
 
-                    <div class="row">
+                        <div class="row">
 
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 
-                            <div class="as_whychoose_box text-center">
+                                <div class="as_whychoose_box text-center">
 
-                                <span class="as_number"><span><span data-from="0" data-to="512"
-                                            data-speed="5000">512</span>+</span><img src="assets/images/svg/shape.svg"
-                                        alt=""></span>
+                                    <span class="as_number"><span><span data-from="0" data-to="512"
+                                                data-speed="5000">512</span>+</span><img
+                                            src="assets/images/svg/shape.svg" alt=""></span>
 
-                                <h4>Qualified Astrologers</h4>
+                                    <h4>Qualified Astrologers</h4>
 
-                            </div>
-
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-
-                            <div class="as_whychoose_box text-center">
-
-                                <span class="as_number"><span><span data-from="0" data-to="62"
-                                            data-speed="5000">62</span>+</span><img src="assets/images/svg/shape.svg"
-                                        alt=""></span>
-
-                                <h4>Success Horoscope</h4>
+                                </div>
 
                             </div>
 
-                        </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                                <div class="as_whychoose_box text-center">
 
-                            <div class="as_whychoose_box text-center">
+                                    <span class="as_number"><span><span data-from="0" data-to="62"
+                                                data-speed="5000">62</span>+</span><img
+                                            src="assets/images/svg/shape.svg" alt=""></span>
 
-                                <span class="as_number"><span><span data-from="0" data-to="94"
-                                            data-speed="5000">94</span>+</span><img src="assets/images/svg/shape.svg"
-                                        alt=""></span>
+                                    <h4>Success Horoscope</h4>
 
-                                <h4>Offices Worldwide</h4>
-
-                            </div>
-
-                        </div>
-
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-
-                            <div class="as_whychoose_box text-center">
-
-                                <span class="as_number"><span><span data-from="0" data-to="452"
-                                            data-speed="5000">452+</span>+</span><img src="assets/images/svg/shape.svg"
-                                        alt=""></span>
-
-                                <h4>Trust by million clients</h4>
+                                </div>
 
                             </div>
 
-                        </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                                <div class="as_whychoose_box text-center">
 
-                            <div class="as_whychoose_box text-center">
+                                    <span class="as_number"><span><span data-from="0" data-to="94"
+                                                data-speed="5000">94</span>+</span><img
+                                            src="assets/images/svg/shape.svg" alt=""></span>
 
-                                <span class="as_number"><span><span data-from="0" data-to="12"
-                                            data-speed="5000">12</span>+</span><img src="assets/images/svg/shape.svg"
-                                        alt=""></span>
+                                    <h4>Offices Worldwide</h4>
 
-                                <h4>Year experience</h4>
+                                </div>
 
                             </div>
 
-                        </div>
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                                <div class="as_whychoose_box text-center">
 
-                            <div class="as_whychoose_box text-center">
+                                    <span class="as_number"><span><span data-from="0" data-to="452"
+                                                data-speed="5000">452+</span>+</span><img
+                                            src="assets/images/svg/shape.svg" alt=""></span>
 
-                                <span class="as_number"><span><span data-from="0" data-to="652"
-                                            data-speed="5000">652+</span>+</span><img src="assets/images/svg/shape.svg"
-                                        alt=""></span>
+                                    <h4>Trust by million clients</h4>
 
-                                <h4>Type of horoscopes</h4>
+                                </div>
+
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+
+                                <div class="as_whychoose_box text-center">
+
+                                    <span class="as_number"><span><span data-from="0" data-to="12"
+                                                data-speed="5000">12</span>+</span><img
+                                            src="assets/images/svg/shape.svg" alt=""></span>
+
+                                    <h4>Year experience</h4>
+
+                                </div>
+
+                            </div>
+
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+
+                                <div class="as_whychoose_box text-center">
+
+                                    <span class="as_number"><span><span data-from="0" data-to="652"
+                                                data-speed="5000">652+</span>+</span><img
+                                            src="assets/images/svg/shape.svg" alt=""></span>
+
+                                    <h4>Type of horoscopes</h4>
+
+                                </div>
 
                             </div>
 
@@ -1408,11 +1411,9 @@
 
             </div>
 
-        </div>
+        </section>
 
-    </section>
-
-    <!-- <section class="as_blog_wrapper as_padderTop80 as_padderBottom80">
+        <!-- <section class="as_blog_wrapper as_padderTop80 as_padderBottom80">
 
         <div class="container">
 
@@ -1545,34 +1546,35 @@
 
     </section> -->
 
-    <section class="as_product_wrapper as_padderBottom80 as_padderTop80">
+        <section class="as_product_wrapper as_padderBottom80 as_padderTop80">
 
-        <div class="container">
+            <div class="container">
 
-            <div class="row">
+                <div class="row">
 
-                <div class="col-lg-12 text-center">
+                    <div class="col-lg-12 text-center">
 
-                    <h1 class="as_heading as_heading_center">Our Latest Products</h1>
+                        <h1 class="as_heading as_heading_center">Our Latest Products</h1>
 
-                    <p class="as_font14 as_margin0 as_padderBottom20">Consectetur adipiscing elit, sed do eiusmod tempor
-                        incididuesdeentiut labore <br>etesde dolore magna aliquapspendisse and the gravida.</p>
-
-
-
-                    <div class="row as_product_slider">
-
-                        <div class="col-lg-3 col-md-6">
-
-                            <div class="as_product_box">
-
-                                <div class="as_product_img">
-
-                                    <img src="assets/images/prod1.jpg" alt="" class="img-responsive">
+                        <p class="as_font14 as_margin0 as_padderBottom20">Consectetur adipiscing elit, sed do eiusmod
+                            tempor
+                            incididuesdeentiut labore <br>etesde dolore magna aliquapspendisse and the gravida.</p>
 
 
 
-                                    <!-- <ul>
+                        <div class="row as_product_slider">
+
+                            <div class="col-lg-3 col-md-6">
+
+                                <div class="as_product_box">
+
+                                    <div class="as_product_img">
+
+                                        <img src="assets/images/prod1.jpg" alt="" class="img-responsive">
+
+
+
+                                        <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1585,30 +1587,30 @@
 
                                     </ul> -->
 
-                                </div>
+                                    </div>
 
-                                <span><img src="assets/images/rating.png" alt=""></span>
+                                    <span><img src="assets/images/rating.png" alt=""></span>
 
-                                <h4 class="as_subheading">Gemstone</h4>
+                                    <h4 class="as_subheading">Gemstone</h4>
 
-                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
+
+                                </div>
 
                             </div>
 
-                        </div>
+                            <div class="col-lg-3 col-md-6">
 
-                        <div class="col-lg-3 col-md-6">
+                                <div class="as_product_box">
 
-                            <div class="as_product_box">
+                                    <div class="as_product_img">
 
-                                <div class="as_product_img">
-
-                                    <img src="assets/images/prod2.jpg" alt="" class="img-responsive">
+                                        <img src="assets/images/prod2.jpg" alt="" class="img-responsive">
 
 
 
-                                    <!-- <ul>
+                                        <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1621,30 +1623,30 @@
 
                                     </ul> -->
 
-                                </div>
+                                    </div>
 
-                                <span><img src="assets/images/rating.png" alt=""></span>
+                                    <span><img src="assets/images/rating.png" alt=""></span>
 
-                                <h4 class="as_subheading">Gemstone</h4>
+                                    <h4 class="as_subheading">Gemstone</h4>
 
-                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
+
+                                </div>
 
                             </div>
 
-                        </div>
+                            <div class="col-lg-3 col-md-6">
 
-                        <div class="col-lg-3 col-md-6">
+                                <div class="as_product_box">
 
-                            <div class="as_product_box">
+                                    <div class="as_product_img">
 
-                                <div class="as_product_img">
-
-                                    <img src="assets/images/prod3.jpg" alt="" class="img-responsive">
+                                        <img src="assets/images/prod3.jpg" alt="" class="img-responsive">
 
 
 
-                                    <!-- <ul>
+                                        <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1657,30 +1659,30 @@
 
                                     </ul> -->
 
-                                </div>
+                                    </div>
 
-                                <span><img src="assets/images/rating.png" alt=""></span>
+                                    <span><img src="assets/images/rating.png" alt=""></span>
 
-                                <h4 class="as_subheading">Gemstone</h4>
+                                    <h4 class="as_subheading">Gemstone</h4>
 
-                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
+
+                                </div>
 
                             </div>
 
-                        </div>
+                            <div class="col-lg-3 col-md-6">
 
-                        <div class="col-lg-3 col-md-6">
+                                <div class="as_product_box">
 
-                            <div class="as_product_box">
+                                    <div class="as_product_img">
 
-                                <div class="as_product_img">
-
-                                    <img src="assets/images/prod4.jpg" alt="" class="img-responsive">
+                                        <img src="assets/images/prod4.jpg" alt="" class="img-responsive">
 
 
 
-                                    <!-- <ul>
+                                        <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1693,30 +1695,30 @@
 
                                     </ul> -->
 
-                                </div>
+                                    </div>
 
-                                <span><img src="assets/images/rating.png" alt=""></span>
+                                    <span><img src="assets/images/rating.png" alt=""></span>
 
-                                <h4 class="as_subheading">Gemstone</h4>
+                                    <h4 class="as_subheading">Gemstone</h4>
 
-                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
+
+                                </div>
 
                             </div>
 
-                        </div>
+                            <div class="col-lg-3 col-md-6">
 
-                        <div class="col-lg-3 col-md-6">
+                                <div class="as_product_box">
 
-                            <div class="as_product_box">
+                                    <div class="as_product_img">
 
-                                <div class="as_product_img">
-
-                                    <img src="assets/images/prod1.jpg" alt="" class="img-responsive">
+                                        <img src="assets/images/prod1.jpg" alt="" class="img-responsive">
 
 
 
-                                    <!-- <ul>
+                                        <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1729,30 +1731,30 @@
 
                                     </ul> -->
 
-                                </div>
+                                    </div>
 
-                                <span><img src="assets/images/rating.png" alt=""></span>
+                                    <span><img src="assets/images/rating.png" alt=""></span>
 
-                                <h4 class="as_subheading">Gemstone</h4>
+                                    <h4 class="as_subheading">Gemstone</h4>
 
-                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
+
+                                </div>
 
                             </div>
 
-                        </div>
+                            <div class="col-lg-3 col-md-6">
 
-                        <div class="col-lg-3 col-md-6">
+                                <div class="as_product_box">
 
-                            <div class="as_product_box">
+                                    <div class="as_product_img">
 
-                                <div class="as_product_img">
-
-                                    <img src="assets/images/prod2.jpg" alt="" class="img-responsive">
+                                        <img src="assets/images/prod2.jpg" alt="" class="img-responsive">
 
 
 
-                                    <!-- <ul>
+                                        <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1765,30 +1767,30 @@
 
                                     </ul> -->
 
-                                </div>
+                                    </div>
 
-                                <span><img src="assets/images/rating.png" alt=""></span>
+                                    <span><img src="assets/images/rating.png" alt=""></span>
 
-                                <h4 class="as_subheading">Gemstone</h4>
+                                    <h4 class="as_subheading">Gemstone</h4>
 
-                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
+
+                                </div>
 
                             </div>
 
-                        </div>
+                            <div class="col-lg-3 col-md-6">
 
-                        <div class="col-lg-3 col-md-6">
+                                <div class="as_product_box">
 
-                            <div class="as_product_box">
+                                    <div class="as_product_img">
 
-                                <div class="as_product_img">
-
-                                    <img src="assets/images/prod3.jpg" alt="" class="img-responsive">
+                                        <img src="assets/images/prod3.jpg" alt="" class="img-responsive">
 
 
 
-                                    <!-- <ul>
+                                        <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1801,30 +1803,30 @@
 
                                     </ul> -->
 
-                                </div>
+                                    </div>
 
-                                <span><img src="assets/images/rating.png" alt=""></span>
+                                    <span><img src="assets/images/rating.png" alt=""></span>
 
-                                <h4 class="as_subheading">Gemstone</h4>
-                                <!-- 
+                                    <h4 class="as_subheading">Gemstone</h4>
+                                    <!-- 
                                 <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
 
+                                </div>
+
                             </div>
 
-                        </div>
+                            <div class="col-lg-3 col-md-6">
 
-                        <div class="col-lg-3 col-md-6">
+                                <div class="as_product_box">
 
-                            <div class="as_product_box">
+                                    <div class="as_product_img">
 
-                                <div class="as_product_img">
-
-                                    <img src="assets/images/prod4.jpg" alt="" class="img-responsive">
+                                        <img src="assets/images/prod4.jpg" alt="" class="img-responsive">
 
 
 
-                                    <!-- <ul>
+                                        <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1837,30 +1839,30 @@
 
                                     </ul> -->
 
-                                </div>
+                                    </div>
 
-                                <span><img src="assets/images/rating.png" alt=""></span>
+                                    <span><img src="assets/images/rating.png" alt=""></span>
 
-                                <h4 class="as_subheading">Gemstone</h4>
-                                <!-- 
+                                    <h4 class="as_subheading">Gemstone</h4>
+                                    <!-- 
                                 <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
 
+                                </div>
+
                             </div>
 
-                        </div>
+                            <div class="col-lg-3 col-md-6">
 
-                        <div class="col-lg-3 col-md-6">
+                                <div class="as_product_box">
 
-                            <div class="as_product_box">
+                                    <div class="as_product_img">
 
-                                <div class="as_product_img">
-
-                                    <img src="assets/images/prod1.jpg" alt="" class="img-responsive">
+                                        <img src="assets/images/prod1.jpg" alt="" class="img-responsive">
 
 
 
-                                    <!-- <ul>
+                                        <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1873,30 +1875,30 @@
 
                                     </ul> -->
 
-                                </div>
+                                    </div>
 
-                                <span><img src="assets/images/rating.png" alt=""></span>
+                                    <span><img src="assets/images/rating.png" alt=""></span>
 
-                                <h4 class="as_subheading">Gemstone</h4>
+                                    <h4 class="as_subheading">Gemstone</h4>
 
-                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
+
+                                </div>
 
                             </div>
 
-                        </div>
+                            <div class="col-lg-3 col-md-6">
 
-                        <div class="col-lg-3 col-md-6">
+                                <div class="as_product_box">
 
-                            <div class="as_product_box">
+                                    <div class="as_product_img">
 
-                                <div class="as_product_img">
-
-                                    <img src="assets/images/prod2.jpg" alt="" class="img-responsive">
+                                        <img src="assets/images/prod2.jpg" alt="" class="img-responsive">
 
 
 
-                                    <!-- <ul>
+                                        <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1909,30 +1911,30 @@
 
                                     </ul> -->
 
-                                </div>
+                                    </div>
 
-                                <span><img src="assets/images/rating.png" alt=""></span>
+                                    <span><img src="assets/images/rating.png" alt=""></span>
 
-                                <h4 class="as_subheading">Gemstone</h4>
+                                    <h4 class="as_subheading">Gemstone</h4>
 
-                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
+
+                                </div>
 
                             </div>
 
-                        </div>
+                            <div class="col-lg-3 col-md-6">
 
-                        <div class="col-lg-3 col-md-6">
+                                <div class="as_product_box">
 
-                            <div class="as_product_box">
+                                    <div class="as_product_img">
 
-                                <div class="as_product_img">
-
-                                    <img src="assets/images/prod3.jpg" alt="" class="img-responsive">
+                                        <img src="assets/images/prod3.jpg" alt="" class="img-responsive">
 
 
 
-                                    <!-- <ul>
+                                        <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1945,30 +1947,30 @@
 
                                     </ul> -->
 
-                                </div>
+                                    </div>
 
-                                <span><img src="assets/images/rating.png" alt=""></span>
+                                    <span><img src="assets/images/rating.png" alt=""></span>
 
-                                <h4 class="as_subheading">Gemstone</h4>
+                                    <h4 class="as_subheading">Gemstone</h4>
 
-                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
+
+                                </div>
 
                             </div>
 
-                        </div>
+                            <div class="col-lg-3 col-md-6">
 
-                        <div class="col-lg-3 col-md-6">
+                                <div class="as_product_box">
 
-                            <div class="as_product_box">
+                                    <div class="as_product_img">
 
-                                <div class="as_product_img">
-
-                                    <img src="assets/images/prod4.jpg" alt="" class="img-responsive">
+                                        <img src="assets/images/prod4.jpg" alt="" class="img-responsive">
 
 
 
-                                    <!-- <ul>
+                                        <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1981,14 +1983,16 @@
 
                                     </ul> -->
 
-                                </div>
+                                    </div>
 
-                                <span><img src="assets/images/rating.png" alt=""></span>
+                                    <span><img src="assets/images/rating.png" alt=""></span>
 
-                                <h4 class="as_subheading">Gemstone</h4>
+                                    <h4 class="as_subheading">Gemstone</h4>
 
-                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
+
+                                </div>
 
                             </div>
 
@@ -2000,11 +2004,9 @@
 
             </div>
 
-        </div>
+        </section>
 
-    </section>
-
-    <!-- <section class="as_overview_wrapper as_padderBottom80 as_padderTop80">
+        <!-- <section class="as_overview_wrapper as_padderBottom80 as_padderTop80">
 
         <div class="container">
 
@@ -2342,181 +2344,186 @@
 
     </section> -->
 
-    <section class="as_copyright_wrapper text-center">
+        <section class="as_copyright_wrapper text-center">
 
-        <div class="container">
+            <div class="container">
 
-            <div class="row">
+                <div class="row">
 
-                <div class="col-lg-12">
+                    <div class="col-lg-12">
 
-                    <p>Copyright &copy; 2024 <a href="https://www.madhavastrovastu.in"> <span
-                                style="color: blue;">Madhav Astro Vastu </span> </a> All Right Reserved. Develoved By <a
-                            href="snehal.info"> <span style="color: rgb(255, 0, 0);">Snehal Rajvansh</span></a></p>
+                        <p>Copyright &copy; 2024 <a href="https://www.madhavastrovastu.in"> <span
+                                    style="color: blue;">Madhav Astro Vastu </span> </a> All Right Reserved. 
+                                    <!-- Develoved
+                            By <a href="snehal.info"> <span style="color: rgb(255, 0, 0);">Snehal Rajvansh</span></a> -->
+                        </p>
+
+                    </div>
 
                 </div>
 
             </div>
 
-        </div>
+        </section>
 
-    </section>
-
-    </div>
+        <!-- </div> -->
 
 
 
 
 
-    <!-- Modal -->
+        <!-- Modal -->
 
-    <div id="as_login" class="modal fade" tabindex="-1" aria-labelledby="as_login" role="dialog">
+        <div id="as_login" class="modal fade" tabindex="-1" aria-labelledby="as_login" role="dialog">
 
-        <div class="modal-dialog">
+            <div class="modal-dialog">
 
 
 
-            <!-- Modal content-->
+                <!-- Modal content-->
 
-            <div class="modal-content">
+                <div class="modal-content">
 
-                <div class="modal-header">
+                    <div class="modal-header">
 
-                    <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">&times;</button>
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">&times;</button>
 
-                    <h4 class="modal-title">Login</h4>
+                        <h4 class="modal-title">Login</h4>
 
-                </div>
+                    </div>
 
-                <div class="modal-body">
+                    <div class="modal-body">
 
-                    <div class="as_login_box active">
+                        <div class="as_login_box active">
 
-                        <form action="">
+                            <form action="">
 
-                            <div class="form-group">
+                                <div class="form-group">
 
-                                <input type="text" name="" placeholder="Enter email" class="form-control" id="">
-
-                            </div>
-
-                            <div class="form-group">
-
-                                <input type="text" name="" placeholder="Enter password here" class="form-control" id="">
-
-                            </div>
-
-                            <div class="form-group">
-
-                                <div class="as_login_data">
-
-                                    <label>Remember me
-
-                                        <input type="checkbox" name="as_remember_me" value="">
-
-                                        <span class="checkmark"></span>
-
-                                    </label>
-
-                                    <a href="#">Forgot password ?</a>
+                                    <input type="text" name="" placeholder="Enter email" class="form-control" id="">
 
                                 </div>
 
-                            </div>
+                                <div class="form-group">
 
-                            <div class="text-center">
+                                    <input type="text" name="" placeholder="Enter password here" class="form-control"
+                                        id="">
 
-                                <a href="javascript:;" class="as_btn">login</a>
+                                </div>
 
-                            </div>
+                                <div class="form-group">
 
-                        </form>
+                                    <div class="as_login_data">
 
-                        <p class="text-center as_margin0 as_padderTop20">Create An Account ? <a href="javascript:;"
-                                class="as_orange as_signup">SignUp</a></p>
+                                        <label>Remember me
 
-                    </div>
+                                            <input type="checkbox" name="as_remember_me" value="">
 
-                    <div class="as_signup_box">
+                                            <span class="checkmark"></span>
 
-                        <form action="">
+                                        </label>
 
-                            <div class="form-group">
+                                        <a href="#">Forgot password ?</a>
 
-                                <input type="text" name="" placeholder="Enter name" class="form-control" id="">
+                                    </div>
 
-                            </div>
+                                </div>
 
-                            <div class="form-group">
+                                <div class="text-center">
 
-                                <input type="text" name="" placeholder="Enter email" class="form-control" id="">
+                                    <a href="javascript:;" class="as_btn">login</a>
 
-                            </div>
+                                </div>
 
-                            <div class="form-group">
+                            </form>
 
-                                <input type="text" name="" placeholder="Enter password here" class="form-control" id="">
+                            <p class="text-center as_margin0 as_padderTop20">Create An Account ? <a href="javascript:;"
+                                    class="as_orange as_signup">SignUp</a></p>
 
-                            </div>
+                        </div>
 
-                            <div class="form-group">
+                        <div class="as_signup_box">
 
-                                <input type="text" name="" placeholder="Enter mobile number" class="form-control" id="">
+                            <form action="">
 
-                            </div>
+                                <div class="form-group">
 
-                            <div class="form-group">
+                                    <input type="text" name="" placeholder="Enter name" class="form-control" id="">
 
-                                <select name="" class="form-control" id="">
+                                </div>
 
-                                    <option value="male">Male</option>
+                                <div class="form-group">
 
-                                    <option value="female">Female</option>
+                                    <input type="text" name="" placeholder="Enter email" class="form-control" id="">
 
-                                </select>
+                                </div>
 
-                            </div>
+                                <div class="form-group">
 
-                            <div class="text-center">
+                                    <input type="text" name="" placeholder="Enter password here" class="form-control"
+                                        id="">
 
-                                <a href="javascript:;" class="as_btn">Sign Up</a>
+                                </div>
 
-                            </div>
+                                <div class="form-group">
 
-                        </form>
+                                    <input type="text" name="" placeholder="Enter mobile number" class="form-control"
+                                        id="">
 
-                        <p class="text-center as_margin0 as_padderTop20">Have An Account ? <a href="javascript:;"
-                                class="as_orange as_login">Login</a></p>
+                                </div>
+
+                                <div class="form-group">
+
+                                    <select name="" class="form-control" id="">
+
+                                        <option value="male">Male</option>
+
+                                        <option value="female">Female</option>
+
+                                    </select>
+
+                                </div>
+
+                                <div class="text-center">
+
+                                    <a href="javascript:;" class="as_btn">Sign Up</a>
+
+                                </div>
+
+                            </form>
+
+                            <p class="text-center as_margin0 as_padderTop20">Have An Account ? <a href="javascript:;"
+                                    class="as_orange as_login">Login</a></p>
+
+                        </div>
 
                     </div>
 
                 </div>
 
+
+
             </div>
-
-
 
         </div>
 
-    </div>
 
 
+        <!-- javascript -->
 
-    <!-- javascript -->
+        <script src="assets/js/jquery.min.js"></script>
 
-    <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
 
-    <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/plugin/slick/slick.min.js"></script>
 
-    <script src="assets/js/plugin/slick/slick.min.js"></script>
+        <script src="assets/js/plugin/countto/jquery.countTo.js"></script>
 
-    <script src="assets/js/plugin/countto/jquery.countTo.js"></script>
+        <script src="assets/js/plugin/airdatepicker/datepicker.min.js"></script>
 
-    <script src="assets/js/plugin/airdatepicker/datepicker.min.js"></script>
+        <script src="assets/js/plugin/airdatepicker/i18n/datepicker.en.js"></script>
 
-    <script src="assets/js/plugin/airdatepicker/i18n/datepicker.en.js"></script>
-
-    <script src="assets/js/custom.js"></script>
+        <script src="assets/js/custom.js"></script>
 
 </body>
 

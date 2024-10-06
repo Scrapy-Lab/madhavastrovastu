@@ -405,6 +405,7 @@ span.select2-dropdown.select2-dropdown--above, .select2-container--open .select2
 .as_header_wrapper {
     display: flex;
     background-color: #160033;
+    border-bottom: 1px solid #2e1a48;
 }
 .as_logo {
     padding: 35px 150px;
@@ -2687,7 +2688,10 @@ textarea.form-control {
     }
     .as_padderTop80 {
         padding-top: 70px;
-        overflow: hidden;
+        /* overflow: hidden; */
+    }
+    .home-banner-main-wrapper {
+        padding-top: 20px !important;
     }
     .as_sign_ul li:first-child, .as_sign_ul li:last-child,.as_sign_ul li:nth-child(2), .as_sign_ul li:nth-child(5),.as_sign_ul.as_sign_ul_right li:first-child, .as_sign_ul.as_sign_ul_right li:last-child ,  .as_sign_ul.as_sign_ul_right li:nth-child(2), .as_sign_ul.as_sign_ul_right li:nth-child(5) {
         transform: translateX(0);
