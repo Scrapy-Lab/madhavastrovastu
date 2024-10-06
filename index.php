@@ -97,8 +97,9 @@
                                         <img src="assets/images/svg/headphone.svg" alt="">
 
                                     </span>
+                                    <a href="tel:+919431488492">
+                                        <span class="as_orange">Contact Us -</span> +91 9431488492</a>
 
-                                    <span class="as_orange">Contact Us -</span> +91 9431488492
 
                                 </div>
 
@@ -118,7 +119,8 @@
 
                                     </span>
 
-                                    <span class="as_orange">Contact Us -</span>rkenterprieses79@gmail.com
+                                    <a href="mailto:rkenterprieses79@gmail.com"> <span class="as_orange">Contact Us
+                                            -</span> rkenterprieses79@gmail.com</a>
 
                                 </div>
 
@@ -398,14 +400,15 @@
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="home-banner-main-wrapper">
-                                <div class="home-banner-content">
+                                <div class="home-banner-content" id="about">
 
                                     <div class="hs_logo_wrapper">
                                         <!-- <img src="images/top_logo.png" alt="logo"> -->
                                     </div>
-                                    <h1>Discover Your Destiny with <span style="color: #ff7010;">Madhav Shastri</span></h1>
+                                    <h1>Discover Your Destiny with <span style="color: #ff7010;">Madhav Shastri</span>
+                                    </h1>
                                     <p>Empowering Your Journey with Ancient Vedic Knowledge</p>
-                                    <a href="contact.html" class="bootstrap_four_btn" href="#"
+                                    <a  href="contact.html" class="bootstrap_four_btn" href="#"
                                         data-scroll-nav="2">Contact Us</a>
                                     <!-- <a class="bootstrap_three_btn"
                                     href="https://themeforest.net/item/horoscope-all-in-one-astrology-and-numerology-html-template/21530164?ref=webstrot"
@@ -456,11 +459,11 @@
             </div>
 
         </section>
-        <section class="as_about_wrapper as_padderTop80 as_padderBottom80" id="about">
+        <section class="as_about_wrapper as_padderTop80 as_padderBottom80" >
 
             <div class="container">
 
-                <div class="row">
+                <div class="row" >
 
                     <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
@@ -514,7 +517,8 @@
 
                         <h1 class="as_heading">About <span style="color: #ff7010;">Madhav Shastri</span></h1>
 
-                        <p>At Astrology By <span style="color: #ff7010;">Madhav Shastri</span>, I guide individuals on their journey to self-discovery and
+                        <p>At Astrology By <span style="color: #ff7010;">Madhav Shastri</span>, I guide individuals on
+                            their journey to self-discovery and
                             personal growth through the wisdom of astrology and Vastu Shastra. With years of experience
                             in these ancient sciences, I provide insights into life’s most important areas—love, career,
                             health, and more—by interpreting your unique birth chart and aligning your space with
@@ -580,8 +584,10 @@
 
                         <h1 class="as_heading as_heading_center">our services</h1>
 
-                        <p class="as_font14 as_padderBottom5">Consectetur adipiscing elit, sed do eiusmod tempor
-                            incididuesdeentiut labore <br>etesde dolore magna aliquapspendisse and the gravida.</p>
+                        <p class="as_font14 as_padderBottom5">We offer a variety of astrological services, including
+                            personalized horoscope analyses, love compatibility readings, tarot readings, and Vastu
+                            Shastra consultations. Each service is tailored to provide clarity and guidance, helping you
+                            navigate life's challenges and enhance your overall well-being.</p>
 
                     </div>
 
@@ -1319,7 +1325,11 @@
 
                         <h1 class="as_heading">Why Choose Us</h1>
 
-                        <p class="as_font14 as_margin0">At Astrology By <span style="color: #ff7010;">Madhav Shastri</span> , we provide expert guidance through personalized readings that cater to your unique needs. Our holistic approach integrates various astrological practices, ensuring you receive comprehensive insights and solutions. With a focus on client satisfaction, we aim to empower you on your spiritual journey for meaningful transformations.</p>
+                        <p class="as_font14 as_margin0">At Astrology By <span style="color: #ff7010;">Madhav
+                                Shastri</span> , we provide expert guidance through personalized readings that cater to
+                            your unique needs. Our holistic approach integrates various astrological practices, ensuring
+                            you receive comprehensive insights and solutions. With a focus on client satisfaction, we
+                            aim to empower you on your spiritual journey for meaningful transformations.</p>
 
                     </div>
 
@@ -1562,11 +1572,12 @@
 
                     <div class="col-lg-12 text-center">
 
-                        <h1 class="as_heading as_heading_center">Our Latest Products</h1>
+                        <h1 class="as_heading as_heading_center">Our Products</h1>
 
-                        <p class="as_font14 as_margin0 as_padderBottom20">Consectetur adipiscing elit, sed do eiusmod
-                            tempor
-                            incididuesdeentiut labore <br>etesde dolore magna aliquapspendisse and the gravida.</p>
+                        <p class="as_font14 as_margin0 as_padderBottom20">Discover our latest products, including
+                            personalized birth charts, insightful astrology books, and healing crystals. Each item is
+                            thoughtfully selected to enhance your astrological journey and empower your understanding of
+                            the cosmos.</p>
 
 
 
