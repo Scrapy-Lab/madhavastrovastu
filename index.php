@@ -253,7 +253,7 @@
 
                             <li><a href="#service">services</a></li>
 
-                            <li><a class="active" href="products.html">Products</a></li>
+                            <li><a  href="products.html">Products</a></li>
 
                             <!-- <li><a href="appointment.html">appointment</a></li> -->
 
