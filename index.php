@@ -253,7 +253,7 @@
 
                             <li><a href="#service">services</a></li>
 
-                            <li><a  href="products.html">Products</a></li>
+                            <li><a href="products.html">Products</a></li>
 
                             <!-- <li><a href="appointment.html">appointment</a></li> -->
 
@@ -408,7 +408,7 @@
                                     <h1>Discover Your Destiny with <span style="color: #ff7010;">Madhav Shastri</span>
                                     </h1>
                                     <p>Empowering Your Journey with Ancient Vedic Knowledge</p>
-                                    <a  href="contact.html" class="bootstrap_four_btn" href="#"
+                                    <a href="contact.html" class="bootstrap_four_btn" href="#"
                                         data-scroll-nav="2">Contact Us</a>
                                     <!-- <a class="bootstrap_three_btn"
                                     href="https://themeforest.net/item/horoscope-all-in-one-astrology-and-numerology-html-template/21530164?ref=webstrot"
@@ -459,11 +459,42 @@
             </div>
 
         </section>
-        <section class="as_about_wrapper as_padderTop80 as_padderBottom80" >
+
+                
+        <section class="as_product_wrapper as_padderBottom80 as_padderTop80">
 
             <div class="container">
 
-                <div class="row" >
+                <div class="row">
+
+                    <!--  -->
+
+                    <div class="col-lg-12 text-center">
+                    <!-- <h1 class="as_heading as_heading_center">our services</h1> -->
+                    <h1 class="as_heading as_heading_center">Content</h1>
+
+                    <ul class="product-list" style="list-style-type: circle;">
+                        <li>Health and Disease / Finance</li>
+                        <li>Education / Profession / Matching and</li>
+                        <li>Marriage / Children / Foreign settlement</li>
+                        <li>Transit of Saturn and Jupiter</li>
+                        <li>Sadesati / Kalsarp and Pitra Dosh</li>
+                        <li>Remedy by Rudraksha and Gems content</li>
+                        <li>Number and suitable profession</li>
+                        <li>Suitable stone and health precautions and Vastu analysis by date of birth</li>
+                    </ul>
+                </div>
+
+            </div>
+
+    </div>
+
+    </section>
+        <section class="as_about_wrapper as_padderTop80 as_padderBottom80">
+
+            <div class="container">
+
+                <div class="row">
 
                     <div class="col-lg-6 col-md-12 col-sm-12 col-12">
 
@@ -574,203 +605,203 @@
 
         </section>
 
-        <section class="as_service_wrapper as_padderTop80 as_padderBottom80" id="service">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-lg-12 text-center">
-
-                        <h1 class="as_heading as_heading_center">our services</h1>
-
-                        <p class="as_font14 as_padderBottom5">We offer a variety of astrological services, including
-                            personalized horoscope analyses, love compatibility readings, tarot readings, and Vastu
-                            Shastra consultations. Each service is tailored to provide clarity and guidance, helping you
-                            navigate life's challenges and enhance your overall well-being.</p>
-
-                    </div>
 
 
+    <section class="as_service_wrapper as_padderTop80 as_padderBottom80" id="service">
 
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+        <div class="container">
 
-                        <div class="as_service_box text-center">
+            <div class="row">
 
-                            <span class="as_icon">
+                <div class="col-lg-12 text-center">
 
-                                <img src="assets/images/svg/service1.svg" alt="">
+                    <h1 class="as_heading as_heading_center">our services</h1>
 
-                            </span>
+                    <p class="as_font14 as_padderBottom5">We offer a variety of astrological services, including
+                        personalized horoscope analyses, love compatibility readings, tarot readings, and Vastu
+                        Shastra consultations. Each service is tailored to provide clarity and guidance, helping you
+                        navigate life's challenges and enhance your overall well-being.</p>
+
+                </div>
 
 
 
-                            <h4 class="as_subheading">Vastu Shastra</h4>
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 
-                            <p>Vastu Shastra harmonizes living spaces with nature for positive energy.</p>
+                    <div class="as_service_box text-center">
 
-                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
+                        <span class="as_icon">
 
-                        </div>
+                            <img src="assets/images/svg/service1.svg" alt="">
 
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-
-                        <div class="as_service_box text-center">
-
-                            <span class="as_icon">
-
-                                <img src="assets/images/svg/service2.svg" alt="">
-
-                            </span>
+                        </span>
 
 
 
-                            <h4 class="as_subheading">Birth Journal</h4>
+                        <h4 class="as_subheading">Vastu Shastra</h4>
 
-                            <p>Birth Journal records astrological details of one's birth for life guidance.</p>
+                        <p>Vastu Shastra harmonizes living spaces with nature for positive energy.</p>
 
-                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
-
-                        </div>
+                        <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                     </div>
 
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                </div>
 
-                        <div class="as_service_box text-center">
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 
-                            <span class="as_icon">
+                    <div class="as_service_box text-center">
 
-                                <img src="assets/images/svg/service3.svg" alt="">
+                        <span class="as_icon">
 
-                            </span>
+                            <img src="assets/images/svg/service2.svg" alt="">
 
-
-
-                            <h4 class="as_subheading">Manglik Dosha</h4>
-
-                            <p>Manglik Dosha arises from Mars' position, affecting marriage and relationships.</p>
-
-                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
-
-                        </div>
-
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-
-                        <div class="as_service_box text-center">
-
-                            <span class="as_icon">
-
-                                <img src="assets/images/svg/service4.svg" alt="">
-
-                            </span>
+                        </span>
 
 
 
-                            <h4 class="as_subheading">Lal Kitab</h4>
+                        <h4 class="as_subheading">Birth Journal</h4>
 
-                            <p>Lal Kitab is an ancient astrology text offering practical remedies for life challenges.
-                            </p>
+                        <p>Birth Journal records astrological details of one's birth for life guidance.</p>
 
-                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
-
-                        </div>
+                        <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                     </div>
 
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                </div>
 
-                        <div class="as_service_box text-center">
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 
-                            <span class="as_icon">
+                    <div class="as_service_box text-center">
 
-                                <img src="assets/images/svg/service5.svg" alt="">
+                        <span class="as_icon">
 
-                            </span>
+                            <img src="assets/images/svg/service3.svg" alt="">
 
-
-
-                            <h4 class="as_subheading">Crystal Ball</h4>
-
-                            <p>A crystal ball is used in divination to gain insights into the future and explore one's
-                                inner self.</p>
-
-                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
-
-                        </div>
-
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
-
-                        <div class="as_service_box text-center">
-
-                            <span class="as_icon">
-
-                                <img src="assets/images/svg/service6.svg" alt="">
-
-                            </span>
+                        </span>
 
 
 
-                            <h4 class="as_subheading">Kundli Dosh</h4>
+                        <h4 class="as_subheading">Manglik Dosha</h4>
 
-                            <p>Kundli Dosh refers to imperfections in a natal chart that may affect life events,
-                                relationships, and compatibility.</p>
+                        <p>Manglik Dosha arises from Mars' position, affecting marriage and relationships.</p>
 
-                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
-
-                        </div>
+                        <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                     </div>
 
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                </div>
 
-                        <div class="as_service_box text-center">
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 
-                            <span class="as_icon">
+                    <div class="as_service_box text-center">
 
-                                <img src="assets/images/svg/service7.svg" alt="">
+                        <span class="as_icon">
 
-                            </span>
+                            <img src="assets/images/svg/service4.svg" alt="">
+
+                        </span>
 
 
 
-                            <h4 class="as_subheading">Tarot Reading</h4>
+                        <h4 class="as_subheading">Lal Kitab</h4>
 
-                            <p>Tarot reading involves using a deck of cards to gain insights, guidance, and clarity
-                                about life situations and personal challenges.</p>
+                        <p>Lal Kitab is an ancient astrology text offering practical remedies for life challenges.
+                        </p>
 
-                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
-
-                        </div>
+                        <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                     </div>
 
-                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                </div>
 
-                        <div class="as_service_box text-center">
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 
-                            <span class="as_icon">
+                    <div class="as_service_box text-center">
 
-                                <img src="assets/images/svg/service8.svg" alt="">
+                        <span class="as_icon">
 
-                            </span>
+                            <img src="assets/images/svg/service5.svg" alt="">
+
+                        </span>
 
 
 
-                            <h4 class="as_subheading">Palm Reading</h4>
+                        <h4 class="as_subheading">Crystal Ball</h4>
 
-                            <p>Palm reading is the practice of analyzing the lines, shapes, and features of the hands to
-                                gain insights into an individual's personality, life path, and future.</p>
+                        <p>A crystal ball is used in divination to gain insights into the future and explore one's
+                            inner self.</p>
 
-                            <!-- <a href="service_detail.html" class="as_link">read more</a> -->
+                        <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
-                        </div>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+
+                    <div class="as_service_box text-center">
+
+                        <span class="as_icon">
+
+                            <img src="assets/images/svg/service6.svg" alt="">
+
+                        </span>
+
+
+
+                        <h4 class="as_subheading">Kundli Dosh</h4>
+
+                        <p>Kundli Dosh refers to imperfections in a natal chart that may affect life events,
+                            relationships, and compatibility.</p>
+
+                        <!-- <a href="service_detail.html" class="as_link">read more</a> -->
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+
+                    <div class="as_service_box text-center">
+
+                        <span class="as_icon">
+
+                            <img src="assets/images/svg/service7.svg" alt="">
+
+                        </span>
+
+
+
+                        <h4 class="as_subheading">Tarot Reading</h4>
+
+                        <p>Tarot reading involves using a deck of cards to gain insights, guidance, and clarity
+                            about life situations and personal challenges.</p>
+
+                        <!-- <a href="service_detail.html" class="as_link">read more</a> -->
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+
+                    <div class="as_service_box text-center">
+
+                        <span class="as_icon">
+
+                            <img src="assets/images/svg/service8.svg" alt="">
+
+                        </span>
+
+
+
+                        <h4 class="as_subheading">Palm Reading</h4>
+
+                        <p>Palm reading is the practice of analyzing the lines, shapes, and features of the hands to
+                            gain insights into an individual's personality, life path, and future.</p>
+
+                        <!-- <a href="service_detail.html" class="as_link">read more</a> -->
 
                     </div>
 
@@ -778,318 +809,318 @@
 
             </div>
 
-        </section>
+        </div>
 
-        <section class="as_zodiac_sign_wrapper as_padderTop80 as_padderBottom80">
+    </section>
 
-            <div class="container">
+    <section class="as_zodiac_sign_wrapper as_padderTop80 as_padderBottom80">
 
-                <div class="row">
+        <div class="container">
 
-                    <div class="col-lg-12 text-center">
+            <div class="row">
 
-                        <h1 class="as_heading as_heading_center">choose zodiac sign</h1>
+                <div class="col-lg-12 text-center">
 
-                        <p class="as_font14 as_margin0">Consectetur adipiscing elit, sed do eiusmod tempor
-                            incididuesdeentiut labore <br>etesde dolore magna aliquapspendisse and the gravida.</p>
+                    <h1 class="as_heading as_heading_center">choose zodiac sign</h1>
 
+                    <p class="as_font14 as_margin0">Consectetur adipiscing elit, sed do eiusmod tempor
+                        incididuesdeentiut labore <br>etesde dolore magna aliquapspendisse and the gravida.</p>
 
 
 
 
-                        <div class="as_zodiac_inner text-left">
 
-                            <div class="row as_verticle_center">
+                    <div class="as_zodiac_inner text-left">
 
-                                <div class="col-lg-3 col-md-12 col-sm-12 col-12">
+                        <div class="row as_verticle_center">
 
-                                    <ul class="as_sign_ul">
+                            <div class="col-lg-3 col-md-12 col-sm-12 col-12">
 
-                                        <li class="as_sign_box">
+                                <ul class="as_sign_ul">
 
-                                            <a href="zodiac_single.html">
+                                    <li class="as_sign_box">
 
-                                                <span class="as_sign">
+                                        <a href="zodiac_single.html">
 
-                                                    <img src="assets/images/svg/sign1.svg" alt="">
+                                            <span class="as_sign">
 
-                                                </span>
+                                                <img src="assets/images/svg/sign1.svg" alt="">
 
-                                                <div>
+                                            </span>
 
-                                                    <h5>Aries</h5>
+                                            <div>
 
-                                                    <p>Mar 21 - Apr 19</p>
+                                                <h5>Aries</h5>
 
-                                                </div>
+                                                <p>Mar 21 - Apr 19</p>
 
-                                            </a>
+                                            </div>
 
-                                        </li>
+                                        </a>
 
-                                        <li class="as_sign_box">
+                                    </li>
 
-                                            <a href="zodiac_single.html">
+                                    <li class="as_sign_box">
 
-                                                <span class="as_sign">
+                                        <a href="zodiac_single.html">
 
-                                                    <img src="assets/images/svg/sign2.svg" alt="">
+                                            <span class="as_sign">
 
-                                                </span>
+                                                <img src="assets/images/svg/sign2.svg" alt="">
 
-                                                <div>
+                                            </span>
 
-                                                    <h5>Taurus </h5>
+                                            <div>
 
-                                                    <p>Mar 21 - Apr 19</p>
+                                                <h5>Taurus </h5>
 
-                                                </div>
+                                                <p>Mar 21 - Apr 19</p>
 
-                                            </a>
+                                            </div>
 
-                                        </li>
+                                        </a>
 
-                                        <li class="as_sign_box">
+                                    </li>
 
-                                            <a href="zodiac_single.html">
+                                    <li class="as_sign_box">
 
-                                                <span class="as_sign">
+                                        <a href="zodiac_single.html">
 
-                                                    <img src="assets/images/svg/sign3.svg" alt="">
+                                            <span class="as_sign">
 
-                                                </span>
+                                                <img src="assets/images/svg/sign3.svg" alt="">
 
-                                                <div>
+                                            </span>
 
-                                                    <h5>Gemini</h5>
+                                            <div>
 
-                                                    <p>Mar 21 - Apr 19</p>
+                                                <h5>Gemini</h5>
 
-                                                </div>
+                                                <p>Mar 21 - Apr 19</p>
 
-                                            </a>
+                                            </div>
 
-                                        </li>
+                                        </a>
 
-                                        <li class="as_sign_box">
+                                    </li>
 
-                                            <a href="zodiac_single.html">
+                                    <li class="as_sign_box">
 
-                                                <span class="as_sign">
+                                        <a href="zodiac_single.html">
 
-                                                    <img src="assets/images/svg/sign4.svg" alt="">
+                                            <span class="as_sign">
 
-                                                </span>
+                                                <img src="assets/images/svg/sign4.svg" alt="">
 
-                                                <div>
+                                            </span>
 
-                                                    <h5>Cancer</h5>
+                                            <div>
 
-                                                    <p>Mar 21 - Apr 19</p>
+                                                <h5>Cancer</h5>
 
-                                                </div>
+                                                <p>Mar 21 - Apr 19</p>
 
-                                            </a>
+                                            </div>
 
-                                        </li>
+                                        </a>
 
-                                        <li class="as_sign_box">
+                                    </li>
 
-                                            <a href="zodiac_single.html">
+                                    <li class="as_sign_box">
 
-                                                <span class="as_sign">
+                                        <a href="zodiac_single.html">
 
-                                                    <img src="assets/images/svg/sign5.svg" alt="">
+                                            <span class="as_sign">
 
-                                                </span>
+                                                <img src="assets/images/svg/sign5.svg" alt="">
 
-                                                <div>
+                                            </span>
 
-                                                    <h5>Leo</h5>
+                                            <div>
 
-                                                    <p>Mar 21 - Apr 19</p>
+                                                <h5>Leo</h5>
 
-                                                </div>
+                                                <p>Mar 21 - Apr 19</p>
 
-                                            </a>
+                                            </div>
 
-                                        </li>
+                                        </a>
 
-                                        <li class="as_sign_box">
+                                    </li>
 
-                                            <a href="zodiac_single.html">
+                                    <li class="as_sign_box">
 
-                                                <span class="as_sign">
+                                        <a href="zodiac_single.html">
 
-                                                    <img src="assets/images/svg/sign6.svg" alt="">
+                                            <span class="as_sign">
 
-                                                </span>
+                                                <img src="assets/images/svg/sign6.svg" alt="">
 
-                                                <div>
+                                            </span>
 
-                                                    <h5>Virgo</h5>
+                                            <div>
 
-                                                    <p>Mar 21 - Apr 19</p>
+                                                <h5>Virgo</h5>
 
-                                                </div>
+                                                <p>Mar 21 - Apr 19</p>
 
-                                            </a>
+                                            </div>
 
-                                        </li>
+                                        </a>
 
-                                    </ul>
+                                    </li>
+
+                                </ul>
+
+                            </div>
+
+                            <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+
+                                <div class="as_sign_img text-center">
+
+                                    <img src="assets/images/zodiac.png" alt="" class="img-responsive">
 
                                 </div>
 
-                                <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+                            </div>
 
-                                    <div class="as_sign_img text-center">
+                            <div class="col-lg-3 col-md-12 col-sm-12 col-12">
 
-                                        <img src="assets/images/zodiac.png" alt="" class="img-responsive">
+                                <ul class="as_sign_ul as_sign_ul_right">
 
-                                    </div>
+                                    <li class="as_sign_box">
 
-                                </div>
+                                        <a href="zodiac_single.html">
 
-                                <div class="col-lg-3 col-md-12 col-sm-12 col-12">
+                                            <span class="as_sign">
 
-                                    <ul class="as_sign_ul as_sign_ul_right">
+                                                <img src="assets/images/svg/sign7.svg" alt="">
 
-                                        <li class="as_sign_box">
+                                            </span>
 
-                                            <a href="zodiac_single.html">
+                                            <div>
 
-                                                <span class="as_sign">
+                                                <h5>Libra</h5>
 
-                                                    <img src="assets/images/svg/sign7.svg" alt="">
+                                                <p>Mar 21 - Apr 19</p>
 
-                                                </span>
+                                            </div>
 
-                                                <div>
+                                        </a>
 
-                                                    <h5>Libra</h5>
+                                    </li>
 
-                                                    <p>Mar 21 - Apr 19</p>
+                                    <li class="as_sign_box">
 
-                                                </div>
+                                        <a href="zodiac_single.html">
 
-                                            </a>
+                                            <span class="as_sign">
 
-                                        </li>
+                                                <img src="assets/images/svg/sign8.svg" alt="">
 
-                                        <li class="as_sign_box">
+                                            </span>
 
-                                            <a href="zodiac_single.html">
+                                            <div>
 
-                                                <span class="as_sign">
+                                                <h5>Scorpio</h5>
 
-                                                    <img src="assets/images/svg/sign8.svg" alt="">
+                                                <p>Mar 21 - Apr 19</p>
 
-                                                </span>
+                                            </div>
 
-                                                <div>
+                                        </a>
 
-                                                    <h5>Scorpio</h5>
+                                    </li>
 
-                                                    <p>Mar 21 - Apr 19</p>
+                                    <li class="as_sign_box">
 
-                                                </div>
+                                        <a href="zodiac_single.html">
 
-                                            </a>
+                                            <span class="as_sign">
 
-                                        </li>
+                                                <img src="assets/images/svg/sign9.svg" alt="">
 
-                                        <li class="as_sign_box">
+                                            </span>
 
-                                            <a href="zodiac_single.html">
+                                            <div>
 
-                                                <span class="as_sign">
+                                                <h5>Sagittarius</h5>
 
-                                                    <img src="assets/images/svg/sign9.svg" alt="">
+                                                <p>Mar 21 - Apr 19</p>
 
-                                                </span>
+                                            </div>
 
-                                                <div>
+                                        </a>
 
-                                                    <h5>Sagittarius</h5>
+                                    </li>
 
-                                                    <p>Mar 21 - Apr 19</p>
+                                    <li class="as_sign_box">
 
-                                                </div>
+                                        <a href="zodiac_single.html">
 
-                                            </a>
+                                            <span class="as_sign">
 
-                                        </li>
+                                                <img src="assets/images/svg/sign10.svg" alt="">
 
-                                        <li class="as_sign_box">
+                                            </span>
 
-                                            <a href="zodiac_single.html">
+                                            <div>
 
-                                                <span class="as_sign">
+                                                <h5>Capricorn</h5>
 
-                                                    <img src="assets/images/svg/sign10.svg" alt="">
+                                                <p>Mar 21 - Apr 19</p>
 
-                                                </span>
+                                            </div>
 
-                                                <div>
+                                        </a>
 
-                                                    <h5>Capricorn</h5>
+                                    </li>
 
-                                                    <p>Mar 21 - Apr 19</p>
+                                    <li class="as_sign_box">
 
-                                                </div>
+                                        <a href="zodiac_single.html">
 
-                                            </a>
+                                            <span class="as_sign">
 
-                                        </li>
+                                                <img src="assets/images/svg/sign11.svg" alt="">
 
-                                        <li class="as_sign_box">
+                                            </span>
 
-                                            <a href="zodiac_single.html">
+                                            <div>
 
-                                                <span class="as_sign">
+                                                <h5>Capricorn</h5>
 
-                                                    <img src="assets/images/svg/sign11.svg" alt="">
+                                                <p>Mar 21 - Apr 19</p>
 
-                                                </span>
+                                            </div>
 
-                                                <div>
+                                        </a>
 
-                                                    <h5>Capricorn</h5>
+                                    </li>
 
-                                                    <p>Mar 21 - Apr 19</p>
+                                    <li class="as_sign_box">
 
-                                                </div>
+                                        <a href="zodiac_single.html">
 
-                                            </a>
+                                            <span class="as_sign">
 
-                                        </li>
+                                                <img src="assets/images/svg/sign12.svg" alt="">
 
-                                        <li class="as_sign_box">
+                                            </span>
 
-                                            <a href="zodiac_single.html">
+                                            <div>
 
-                                                <span class="as_sign">
+                                                <h5>Pisces</h5>
 
-                                                    <img src="assets/images/svg/sign12.svg" alt="">
+                                                <p>Mar 21 - Apr 19</p>
 
-                                                </span>
+                                            </div>
 
-                                                <div>
+                                        </a>
 
-                                                    <h5>Pisces</h5>
+                                    </li>
 
-                                                    <p>Mar 21 - Apr 19</p>
-
-                                                </div>
-
-                                            </a>
-
-                                        </li>
-
-                                    </ul>
-
-                                </div>
+                                </ul>
 
                             </div>
 
@@ -1101,9 +1132,11 @@
 
             </div>
 
-        </section>
+        </div>
 
-        <!-- <section class="as_know_sign_wrapper as_padderBottom80 as_padderTop80">
+    </section>
+
+    <!-- <section class="as_know_sign_wrapper as_padderBottom80 as_padderTop80">
 
             <div class="container">
 
@@ -1188,7 +1221,7 @@
 
         </section> -->
 
-        <!-- <section class="as_customer_wrapper as_padderBottom80 as_padderTop80">
+    <!-- <section class="as_customer_wrapper as_padderBottom80 as_padderTop80">
 
             <div class="container">
 
@@ -1315,109 +1348,107 @@
 
         </section> -->
 
-        <section class="as_whychoose_wrapper as_padderTop80 as_padderBottom50">
+    <section class="as_whychoose_wrapper as_padderTop80 as_padderBottom50">
 
-            <div class="container">
+        <div class="container">
 
-                <div class="row as_verticle_center">
+            <div class="row as_verticle_center">
 
-                    <div class="col-lg-3 col-md-12">
+                <div class="col-lg-3 col-md-12">
 
-                        <h1 class="as_heading">Why Choose Us</h1>
+                    <h1 class="as_heading">Why Choose Us</h1>
 
-                        <p class="as_font14 as_margin0">At Astrology By <span style="color: #ff7010;">Madhav
-                                Shastri</span> , we provide expert guidance through personalized readings that cater to
-                            your unique needs. Our holistic approach integrates various astrological practices, ensuring
-                            you receive comprehensive insights and solutions. With a focus on client satisfaction, we
-                            aim to empower you on your spiritual journey for meaningful transformations.</p>
+                    <p class="as_font14 as_margin0">At Astrology By <span style="color: #ff7010;">Madhav
+                            Shastri</span> , we provide expert guidance through personalized readings that cater to
+                        your unique needs. Our holistic approach integrates various astrological practices, ensuring
+                        you receive comprehensive insights and solutions. With a focus on client satisfaction, we
+                        aim to empower you on your spiritual journey for meaningful transformations.</p>
 
-                    </div>
+                </div>
 
-                    <div class="col-lg-9 col-md-12">
+                <div class="col-lg-9 col-md-12">
 
-                        <div class="row">
+                    <div class="row">
 
-                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 
-                                <div class="as_whychoose_box text-center">
+                            <div class="as_whychoose_box text-center">
 
-                                    <span class="as_number"><span><span data-from="0" data-to="512"
-                                                data-speed="5000">512</span>+</span><img
-                                            src="assets/images/svg/shape.svg" alt=""></span>
+                                <span class="as_number"><span><span data-from="0" data-to="512"
+                                            data-speed="5000">512</span>+</span><img src="assets/images/svg/shape.svg"
+                                        alt=""></span>
 
-                                    <h4>Qualified Astrologers</h4>
-
-                                </div>
+                                <h4>Qualified Astrologers</h4>
 
                             </div>
 
-                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                        </div>
 
-                                <div class="as_whychoose_box text-center">
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 
-                                    <span class="as_number"><span><span data-from="0" data-to="62"
-                                                data-speed="5000">62</span>+</span><img
-                                            src="assets/images/svg/shape.svg" alt=""></span>
+                            <div class="as_whychoose_box text-center">
 
-                                    <h4>Success Horoscope</h4>
+                                <span class="as_number"><span><span data-from="0" data-to="62"
+                                            data-speed="5000">62</span>+</span><img src="assets/images/svg/shape.svg"
+                                        alt=""></span>
 
-                                </div>
-
-                            </div>
-
-                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-
-                                <div class="as_whychoose_box text-center">
-
-                                    <span class="as_number"><span><span data-from="0" data-to="94"
-                                                data-speed="5000">94</span>+</span><img
-                                            src="assets/images/svg/shape.svg" alt=""></span>
-
-                                    <h4>Offices Worldwide</h4>
-
-                                </div>
+                                <h4>Success Horoscope</h4>
 
                             </div>
 
-                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                        </div>
 
-                                <div class="as_whychoose_box text-center">
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 
-                                    <span class="as_number"><span><span data-from="0" data-to="452"
-                                                data-speed="5000">452+</span>+</span><img
-                                            src="assets/images/svg/shape.svg" alt=""></span>
+                            <div class="as_whychoose_box text-center">
 
-                                    <h4>Trust by million clients</h4>
+                                <span class="as_number"><span><span data-from="0" data-to="94"
+                                            data-speed="5000">94</span>+</span><img src="assets/images/svg/shape.svg"
+                                        alt=""></span>
 
-                                </div>
-
-                            </div>
-
-                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-
-                                <div class="as_whychoose_box text-center">
-
-                                    <span class="as_number"><span><span data-from="0" data-to="12"
-                                                data-speed="5000">12</span>+</span><img
-                                            src="assets/images/svg/shape.svg" alt=""></span>
-
-                                    <h4>Year experience</h4>
-
-                                </div>
+                                <h4>Offices Worldwide</h4>
 
                             </div>
 
-                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                        </div>
 
-                                <div class="as_whychoose_box text-center">
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
 
-                                    <span class="as_number"><span><span data-from="0" data-to="652"
-                                                data-speed="5000">652+</span>+</span><img
-                                            src="assets/images/svg/shape.svg" alt=""></span>
+                            <div class="as_whychoose_box text-center">
 
-                                    <h4>Type of horoscopes</h4>
+                                <span class="as_number"><span><span data-from="0" data-to="452"
+                                            data-speed="5000">452+</span>+</span><img src="assets/images/svg/shape.svg"
+                                        alt=""></span>
 
-                                </div>
+                                <h4>Trust by million clients</h4>
+
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+
+                            <div class="as_whychoose_box text-center">
+
+                                <span class="as_number"><span><span data-from="0" data-to="12"
+                                            data-speed="5000">12</span>+</span><img src="assets/images/svg/shape.svg"
+                                        alt=""></span>
+
+                                <h4>Year experience</h4>
+
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+
+                            <div class="as_whychoose_box text-center">
+
+                                <span class="as_number"><span><span data-from="0" data-to="652"
+                                            data-speed="5000">652+</span>+</span><img src="assets/images/svg/shape.svg"
+                                        alt=""></span>
+
+                                <h4>Type of horoscopes</h4>
 
                             </div>
 
@@ -1429,9 +1460,11 @@
 
             </div>
 
-        </section>
+        </div>
 
-        <!-- <section class="as_blog_wrapper as_padderTop80 as_padderBottom80">
+    </section>
+
+    <!-- <section class="as_blog_wrapper as_padderTop80 as_padderBottom80">
 
         <div class="container">
 
@@ -1564,36 +1597,38 @@
 
     </section> -->
 
-        <section class="as_product_wrapper as_padderBottom80 as_padderTop80">
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-lg-12 text-center">
-
-                        <h1 class="as_heading as_heading_center">Our Products</h1>
-
-                        <p class="as_font14 as_margin0 as_padderBottom20">Discover our latest products, including
-                            personalized birth charts, insightful astrology books, and healing crystals. Each item is
-                            thoughtfully selected to enhance your astrological journey and empower your understanding of
-                            the cosmos.</p>
 
 
+    <section class="as_product_wrapper as_padderBottom80 as_padderTop80">
 
-                        <div class="row as_product_slider">
+        <div class="container">
 
-                            <div class="col-lg-3 col-md-6">
+            <div class="row">
 
-                                <div class="as_product_box">
+                <div class="col-lg-12 text-center">
 
-                                    <div class="as_product_img">
+                    <h1 class="as_heading as_heading_center">Our Products</h1>
 
-                                        <img src="assets/images/prod1.jpg" alt="" class="img-responsive">
+                    <p class="as_font14 as_margin0 as_padderBottom20">Discover our latest products, including
+                        personalized birth charts, insightful astrology books, and healing crystals. Each item is
+                        thoughtfully selected to enhance your astrological journey and empower your understanding of
+                        the cosmos.</p>
 
 
 
-                                        <!-- <ul>
+                    <div class="row as_product_slider">
+
+                        <div class="col-lg-3 col-md-6">
+
+                            <div class="as_product_box">
+
+                                <div class="as_product_img">
+
+                                    <img src="assets/images/stones/red_coral.jpg" alt="" class="img-responsive">
+
+
+
+                                    <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1605,31 +1640,31 @@
                                         </li>
 
                                     </ul> -->
-
-                                    </div>
-
-                                    <span><img src="assets/images/rating.png" alt=""></span>
-
-                                    <h4 class="as_subheading">Gemstone</h4>
-
-                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
-                                        off)</span></span> -->
 
                                 </div>
 
+                                <!-- <span><img src="assets/images/rating.png" alt=""></span> -->
+
+                                <h4 class="as_subheading">Munga</h4>
+
+                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                        off)</span></span> -->
+
                             </div>
 
-                            <div class="col-lg-3 col-md-6">
+                        </div>
 
-                                <div class="as_product_box">
+                        <div class="col-lg-3 col-md-6">
 
-                                    <div class="as_product_img">
+                            <div class="as_product_box">
 
-                                        <img src="assets/images/prod2.jpg" alt="" class="img-responsive">
+                                <div class="as_product_img">
+
+                                    <img src="assets/images/stones/Blue_Sapphire_.jpg" alt="" class="img-responsive">
 
 
 
-                                        <!-- <ul>
+                                    <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1641,31 +1676,31 @@
                                         </li>
 
                                     </ul> -->
-
-                                    </div>
-
-                                    <span><img src="assets/images/rating.png" alt=""></span>
-
-                                    <h4 class="as_subheading">Gemstone</h4>
-
-                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
-                                        off)</span></span> -->
 
                                 </div>
 
+                                <!-- <span><img src="assets/images/rating.png" alt=""></span> -->
+
+                                <h4 class="as_subheading">Neelam</h4>
+
+                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                        off)</span></span> -->
+
                             </div>
 
-                            <div class="col-lg-3 col-md-6">
+                        </div>
 
-                                <div class="as_product_box">
+                        <div class="col-lg-3 col-md-6">
 
-                                    <div class="as_product_img">
+                            <div class="as_product_box">
 
-                                        <img src="assets/images/prod3.jpg" alt="" class="img-responsive">
+                                <div class="as_product_img">
+
+                                    <img src="assets/images/stones/Yellow_Sapphire_Pukhraj_Stone.jpg" alt="" class="img-responsive">
 
 
 
-                                        <!-- <ul>
+                                    <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1677,31 +1712,31 @@
                                         </li>
 
                                     </ul> -->
-
-                                    </div>
-
-                                    <span><img src="assets/images/rating.png" alt=""></span>
-
-                                    <h4 class="as_subheading">Gemstone</h4>
-
-                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
-                                        off)</span></span> -->
 
                                 </div>
 
+                                <!-- <span><img src="assets/images/rating.png" alt=""></span> -->
+
+                                <h4 class="as_subheading">Pukhraj</h4>
+
+                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                        off)</span></span> -->
+
                             </div>
 
-                            <div class="col-lg-3 col-md-6">
+                        </div>
 
-                                <div class="as_product_box">
+                        <div class="col-lg-3 col-md-6">
 
-                                    <div class="as_product_img">
+                            <div class="as_product_box">
 
-                                        <img src="assets/images/prod4.jpg" alt="" class="img-responsive">
+                                <div class="as_product_img">
+
+                                    <img src="assets/images/stones/Hessonite_.jpg" alt="" class="img-responsive">
 
 
 
-                                        <!-- <ul>
+                                    <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1713,31 +1748,31 @@
                                         </li>
 
                                     </ul> -->
-
-                                    </div>
-
-                                    <span><img src="assets/images/rating.png" alt=""></span>
-
-                                    <h4 class="as_subheading">Gemstone</h4>
-
-                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
-                                        off)</span></span> -->
 
                                 </div>
 
+                                <!-- <span><img src="assets/images/rating.png" alt=""></span> -->
+
+                                <h4 class="as_subheading">Gomed</h4>
+
+                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                        off)</span></span> -->
+
                             </div>
 
-                            <div class="col-lg-3 col-md-6">
+                        </div>
 
-                                <div class="as_product_box">
+                        <div class="col-lg-3 col-md-6">
 
-                                    <div class="as_product_img">
+                            <div class="as_product_box">
 
-                                        <img src="assets/images/prod1.jpg" alt="" class="img-responsive">
+                                <div class="as_product_img">
+
+                                    <img src="assets/images/stones/Emerald_1.jpg" alt="" class="img-responsive">
 
 
 
-                                        <!-- <ul>
+                                    <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1749,31 +1784,31 @@
                                         </li>
 
                                     </ul> -->
-
-                                    </div>
-
-                                    <span><img src="assets/images/rating.png" alt=""></span>
-
-                                    <h4 class="as_subheading">Gemstone</h4>
-
-                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
-                                        off)</span></span> -->
 
                                 </div>
 
+                                <!-- <span><img src="assets/images/rating.png" alt=""></span> -->
+
+                                <h4 class="as_subheading">Panna</h4>
+
+                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                        off)</span></span> -->
+
                             </div>
 
-                            <div class="col-lg-3 col-md-6">
+                        </div>
 
-                                <div class="as_product_box">
+                        <div class="col-lg-3 col-md-6">
 
-                                    <div class="as_product_img">
+                            <div class="as_product_box">
 
-                                        <img src="assets/images/prod2.jpg" alt="" class="img-responsive">
+                                <div class="as_product_img">
+
+                                    <img src="assets/images/stones/Yellow_Sapphire_Thailand_.jpg" alt="" class="img-responsive">
 
 
 
-                                        <!-- <ul>
+                                    <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1785,31 +1820,31 @@
                                         </li>
 
                                     </ul> -->
-
-                                    </div>
-
-                                    <span><img src="assets/images/rating.png" alt=""></span>
-
-                                    <h4 class="as_subheading">Gemstone</h4>
-
-                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
-                                        off)</span></span> -->
 
                                 </div>
 
+                                <!-- <span><img src="assets/images/rating.png" alt=""></span> -->
+
+                                <h4 class="as_subheading">Pukhraj(Thailand)</h4>
+
+                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                        off)</span></span> -->
+
                             </div>
 
-                            <div class="col-lg-3 col-md-6">
+                        </div>
 
-                                <div class="as_product_box">
+                        <div class="col-lg-3 col-md-6">
 
-                                    <div class="as_product_img">
+                            <div class="as_product_box">
 
-                                        <img src="assets/images/prod3.jpg" alt="" class="img-responsive">
+                                <div class="as_product_img">
+
+                                    <img src="assets/images/stones/Pitambari_Sapphire.jpg" alt="" class="img-responsive">
 
 
 
-                                        <!-- <ul>
+                                    <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1822,30 +1857,30 @@
 
                                     </ul> -->
 
-                                    </div>
+                                </div>
 
-                                    <span><img src="assets/images/rating.png" alt=""></span>
+                                <!-- <span><img src="assets/images/rating.png" alt=""></span> -->
 
-                                    <h4 class="as_subheading">Gemstone</h4>
-                                    <!-- 
+                                <h4 class="as_subheading">Pitambari</h4>
+                                <!-- 
                                 <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
 
-                                </div>
-
                             </div>
 
-                            <div class="col-lg-3 col-md-6">
+                        </div>
 
-                                <div class="as_product_box">
+                        <div class="col-lg-3 col-md-6">
 
-                                    <div class="as_product_img">
+                            <div class="as_product_box">
 
-                                        <img src="assets/images/prod4.jpg" alt="" class="img-responsive">
+                                <div class="as_product_img">
+
+                                    <img src="assets/images/stones/Diamond_.jpg" alt="" class="img-responsive">
 
 
 
-                                        <!-- <ul>
+                                    <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1858,30 +1893,30 @@
 
                                     </ul> -->
 
-                                    </div>
+                                </div>
 
-                                    <span><img src="assets/images/rating.png" alt=""></span>
+                                <!-- <span><img src="assets/images/rating.png" alt=""></span> -->
 
-                                    <h4 class="as_subheading">Gemstone</h4>
-                                    <!-- 
+                                <h4 class="as_subheading">Diamond</h4>
+                                <!-- 
                                 <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
                                         off)</span></span> -->
 
-                                </div>
-
                             </div>
 
-                            <div class="col-lg-3 col-md-6">
+                        </div>
 
-                                <div class="as_product_box">
+                        <div class="col-lg-3 col-md-6">
 
-                                    <div class="as_product_img">
+                            <div class="as_product_box">
 
-                                        <img src="assets/images/prod1.jpg" alt="" class="img-responsive">
+                                <div class="as_product_img">
+
+                                    <img src="assets/images/stones/Ruby_Star.jpg" alt="" class="img-responsive">
 
 
 
-                                        <!-- <ul>
+                                    <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1894,30 +1929,30 @@
 
                                     </ul> -->
 
-                                    </div>
-
-                                    <span><img src="assets/images/rating.png" alt=""></span>
-
-                                    <h4 class="as_subheading">Gemstone</h4>
-
-                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
-                                        off)</span></span> -->
-
                                 </div>
+
+                                <!-- <span><img src="assets/images/rating.png" alt=""></span> -->
+
+                                <h4 class="as_subheading">Ruby Star</h4>
+
+                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                        off)</span></span> -->
 
                             </div>
 
-                            <div class="col-lg-3 col-md-6">
+                        </div>
 
-                                <div class="as_product_box">
+                        <div class="col-lg-3 col-md-6">
 
-                                    <div class="as_product_img">
+                            <div class="as_product_box">
 
-                                        <img src="assets/images/prod2.jpg" alt="" class="img-responsive">
+                                <div class="as_product_img">
+
+                                    <img src="assets/images/stones/Moonstone.jpg" alt="" class="img-responsive">
 
 
 
-                                        <!-- <ul>
+                                    <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1930,30 +1965,30 @@
 
                                     </ul> -->
 
-                                    </div>
-
-                                    <span><img src="assets/images/rating.png" alt=""></span>
-
-                                    <h4 class="as_subheading">Gemstone</h4>
-
-                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
-                                        off)</span></span> -->
-
                                 </div>
+
+                                <!-- <span><img src="assets/images/rating.png" alt=""></span> -->
+
+                                <h4 class="as_subheading">Moonstone</h4>
+
+                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                        off)</span></span> -->
 
                             </div>
 
-                            <div class="col-lg-3 col-md-6">
+                        </div>
 
-                                <div class="as_product_box">
+                        <div class="col-lg-3 col-md-6">
 
-                                    <div class="as_product_img">
+                            <div class="as_product_box">
 
-                                        <img src="assets/images/prod3.jpg" alt="" class="img-responsive">
+                                <div class="as_product_img">
+
+                                    <img src="assets/images/stones/Blue_Moonstone_.jpg" alt="" class="img-responsive">
 
 
 
-                                        <!-- <ul>
+                                    <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -1966,30 +2001,30 @@
 
                                     </ul> -->
 
-                                    </div>
-
-                                    <span><img src="assets/images/rating.png" alt=""></span>
-
-                                    <h4 class="as_subheading">Gemstone</h4>
-
-                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
-                                        off)</span></span> -->
-
                                 </div>
+
+                                <!-- <span><img src="assets/images/rating.png" alt=""></span> -->
+
+                                <h4 class="as_subheading">Blue Moonstone</h4>
+
+                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                        off)</span></span> -->
 
                             </div>
 
-                            <div class="col-lg-3 col-md-6">
+                        </div>
 
-                                <div class="as_product_box">
+                        <div class="col-lg-3 col-md-6">
 
-                                    <div class="as_product_img">
+                            <div class="as_product_box">
 
-                                        <img src="assets/images/prod4.jpg" alt="" class="img-responsive">
+                                <div class="as_product_img">
+
+                                    <img src="assets/images/stones/White_Sapphire_.jpg" alt="" class="img-responsive">
 
 
 
-                                        <!-- <ul>
+                                    <!-- <ul>
 
                                         <li><a href="cart.html"><img src="assets/images/svg/wishlist.svg" alt=""></a>
                                         </li>
@@ -2002,16 +2037,14 @@
 
                                     </ul> -->
 
-                                    </div>
-
-                                    <span><img src="assets/images/rating.png" alt=""></span>
-
-                                    <h4 class="as_subheading">Gemstone</h4>
-
-                                    <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
-                                        off)</span></span> -->
-
                                 </div>
+
+                                <!-- <span><img src="assets/images/rating.png" alt=""></span> -->
+
+                                <h4 class="as_subheading">Safed Pukhraj</h4>
+
+                                <!-- <span class="as_price">$20 <del>$80</del> <span class="as_orange">(60%
+                                        off)</span></span> -->
 
                             </div>
 
@@ -2023,9 +2056,11 @@
 
             </div>
 
-        </section>
+        </div>
 
-        <!-- <section class="as_overview_wrapper as_padderBottom80 as_padderTop80">
+    </section>
+
+    <!-- <section class="as_overview_wrapper as_padderBottom80 as_padderTop80">
 
         <div class="container">
 
@@ -2363,186 +2398,183 @@
 
     </section> -->
 
-        <section class="as_copyright_wrapper text-center">
+    <section class="as_copyright_wrapper text-center">
 
-            <div class="container">
+        <div class="container">
 
-                <div class="row">
+            <div class="row">
 
-                    <div class="col-lg-12">
+                <div class="col-lg-12">
 
-                        <p>Copyright &copy; 2024 <a href="https://www.madhavastrovastu.in"> <span
-                                    style="color: blue;">Madhav Astro Vastu </span> </a> All Right Reserved.
-                            <!-- Develoved
+                    <p>Copyright &copy; 2024 <a href="https://www.madhavastrovastu.in"> <span
+                                style="color: blue;">Madhav Astro Vastu </span> </a> All Right Reserved.
+                        <!-- Develoved
                             By <a href="snehal.info"> <span style="color: rgb(255, 0, 0);">Snehal Rajvansh</span></a> -->
-                        </p>
-
-                    </div>
+                    </p>
 
                 </div>
-
-            </div>
-
-        </section>
-
-        <!-- </div> -->
-
-
-
-
-
-        <!-- Modal -->
-
-        <div id="as_login" class="modal fade" tabindex="-1" aria-labelledby="as_login" role="dialog">
-
-            <div class="modal-dialog">
-
-
-
-                <!-- Modal content-->
-
-                <div class="modal-content">
-
-                    <div class="modal-header">
-
-                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">&times;</button>
-
-                        <h4 class="modal-title">Login</h4>
-
-                    </div>
-
-                    <div class="modal-body">
-
-                        <div class="as_login_box active">
-
-                            <form action="">
-
-                                <div class="form-group">
-
-                                    <input type="text" name="" placeholder="Enter email" class="form-control" id="">
-
-                                </div>
-
-                                <div class="form-group">
-
-                                    <input type="text" name="" placeholder="Enter password here" class="form-control"
-                                        id="">
-
-                                </div>
-
-                                <div class="form-group">
-
-                                    <div class="as_login_data">
-
-                                        <label>Remember me
-
-                                            <input type="checkbox" name="as_remember_me" value="">
-
-                                            <span class="checkmark"></span>
-
-                                        </label>
-
-                                        <a href="#">Forgot password ?</a>
-
-                                    </div>
-
-                                </div>
-
-                                <div class="text-center">
-
-                                    <a href="javascript:;" class="as_btn">login</a>
-
-                                </div>
-
-                            </form>
-
-                            <p class="text-center as_margin0 as_padderTop20">Create An Account ? <a href="javascript:;"
-                                    class="as_orange as_signup">SignUp</a></p>
-
-                        </div>
-
-                        <div class="as_signup_box">
-
-                            <form action="">
-
-                                <div class="form-group">
-
-                                    <input type="text" name="" placeholder="Enter name" class="form-control" id="">
-
-                                </div>
-
-                                <div class="form-group">
-
-                                    <input type="text" name="" placeholder="Enter email" class="form-control" id="">
-
-                                </div>
-
-                                <div class="form-group">
-
-                                    <input type="text" name="" placeholder="Enter password here" class="form-control"
-                                        id="">
-
-                                </div>
-
-                                <div class="form-group">
-
-                                    <input type="text" name="" placeholder="Enter mobile number" class="form-control"
-                                        id="">
-
-                                </div>
-
-                                <div class="form-group">
-
-                                    <select name="" class="form-control" id="">
-
-                                        <option value="male">Male</option>
-
-                                        <option value="female">Female</option>
-
-                                    </select>
-
-                                </div>
-
-                                <div class="text-center">
-
-                                    <a href="javascript:;" class="as_btn">Sign Up</a>
-
-                                </div>
-
-                            </form>
-
-                            <p class="text-center as_margin0 as_padderTop20">Have An Account ? <a href="javascript:;"
-                                    class="as_orange as_login">Login</a></p>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
 
             </div>
 
         </div>
 
+    </section>
+
+    <!-- </div> -->
 
 
-        <!-- javascript -->
 
-        <script src="assets/js/jquery.min.js"></script>
 
-        <script src="assets/js/bootstrap.min.js"></script>
 
-        <script src="assets/js/plugin/slick/slick.min.js"></script>
+    <!-- Modal -->
 
-        <script src="assets/js/plugin/countto/jquery.countTo.js"></script>
+    <div id="as_login" class="modal fade" tabindex="-1" aria-labelledby="as_login" role="dialog">
 
-        <script src="assets/js/plugin/airdatepicker/datepicker.min.js"></script>
+        <div class="modal-dialog">
 
-        <script src="assets/js/plugin/airdatepicker/i18n/datepicker.en.js"></script>
 
-        <script src="assets/js/custom.js"></script>
+
+            <!-- Modal content-->
+
+            <div class="modal-content">
+
+                <div class="modal-header">
+
+                    <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">&times;</button>
+
+                    <h4 class="modal-title">Login</h4>
+
+                </div>
+
+                <div class="modal-body">
+
+                    <div class="as_login_box active">
+
+                        <form action="">
+
+                            <div class="form-group">
+
+                                <input type="text" name="" placeholder="Enter email" class="form-control" id="">
+
+                            </div>
+
+                            <div class="form-group">
+
+                                <input type="text" name="" placeholder="Enter password here" class="form-control" id="">
+
+                            </div>
+
+                            <div class="form-group">
+
+                                <div class="as_login_data">
+
+                                    <label>Remember me
+
+                                        <input type="checkbox" name="as_remember_me" value="">
+
+                                        <span class="checkmark"></span>
+
+                                    </label>
+
+                                    <a href="#">Forgot password ?</a>
+
+                                </div>
+
+                            </div>
+
+                            <div class="text-center">
+
+                                <a href="javascript:;" class="as_btn">login</a>
+
+                            </div>
+
+                        </form>
+
+                        <p class="text-center as_margin0 as_padderTop20">Create An Account ? <a href="javascript:;"
+                                class="as_orange as_signup">SignUp</a></p>
+
+                    </div>
+
+                    <div class="as_signup_box">
+
+                        <form action="">
+
+                            <div class="form-group">
+
+                                <input type="text" name="" placeholder="Enter name" class="form-control" id="">
+
+                            </div>
+
+                            <div class="form-group">
+
+                                <input type="text" name="" placeholder="Enter email" class="form-control" id="">
+
+                            </div>
+
+                            <div class="form-group">
+
+                                <input type="text" name="" placeholder="Enter password here" class="form-control" id="">
+
+                            </div>
+
+                            <div class="form-group">
+
+                                <input type="text" name="" placeholder="Enter mobile number" class="form-control" id="">
+
+                            </div>
+
+                            <div class="form-group">
+
+                                <select name="" class="form-control" id="">
+
+                                    <option value="male">Male</option>
+
+                                    <option value="female">Female</option>
+
+                                </select>
+
+                            </div>
+
+                            <div class="text-center">
+
+                                <a href="javascript:;" class="as_btn">Sign Up</a>
+
+                            </div>
+
+                        </form>
+
+                        <p class="text-center as_margin0 as_padderTop20">Have An Account ? <a href="javascript:;"
+                                class="as_orange as_login">Login</a></p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+
+
+    <!-- javascript -->
+
+    <script src="assets/js/jquery.min.js"></script>
+
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <script src="assets/js/plugin/slick/slick.min.js"></script>
+
+    <script src="assets/js/plugin/countto/jquery.countTo.js"></script>
+
+    <script src="assets/js/plugin/airdatepicker/datepicker.min.js"></script>
+
+    <script src="assets/js/plugin/airdatepicker/i18n/datepicker.en.js"></script>
+
+    <script src="assets/js/custom.js"></script>
 
 </body>
 
