@@ -88,7 +88,7 @@
 
                         <li>
 
-                            <a href="tel:+919431488492">
+                            <a href="tel:+917091601666">
 
                                 <div class="as_infobox">
 
@@ -97,8 +97,11 @@
                                         <img src="assets/images/svg/headphone.svg" alt="">
 
                                     </span>
-                                    <a href="tel:+919431488492">
-                                        <span class="as_orange">Contact Us -</span> +91 9431488492</a>
+                                    <a href="tel:+917091601666">
+                                        <span class="as_orange">Contact Us -</span> +91 7091601666</a>
+                                  
+                                        <a href="tel:+917366071666">
+                                        <span class="as_orange">Contact Us -</span> +91 7366071666</a>
 
 
                                 </div>
@@ -591,7 +594,7 @@
 
                                 <h5 class="as_white">Contact Our Expert Astrologers</h5>
 
-                                <h1 class="as_orange"> <a href="tel:+919431488492">+ (91) 9431488492 </a></h1>
+                                <h1 class="as_orange"> <a href="tel:+917091601666">+ (91) 7091601666 </a></h1>
 
                             </div>
 
