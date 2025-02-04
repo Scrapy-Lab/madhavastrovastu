@@ -98,11 +98,12 @@
 
                                     </span>
                                     <a href="tel:+917091601666">
-                                        <span class="as_orange">Contact Us -</span> +91 7091601666</a>
-                                  
-                                        <a href="tel:+917366071666">
-                                        <span class="as_orange">Contact Us -</span> +91 7366071666</a>
+                                        <span class="as_orange">Contact Us -</span> +91 7091601666 </a>
+                                         
+                                        <a href="tel:+917366071666">+91 7366071666</a>
 
+                                  
+                                      
 
                                 </div>
 
